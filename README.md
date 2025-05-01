@@ -19,7 +19,7 @@ A full-stack web application that calculates the expected cost of crafting speci
 ## 📦 Install and Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tli-crafting-calculator
+git clone https://github.com/zachcary1/tli-crafting-calculator
 cd tli-crafting-calculator
 
 # Backend setup
