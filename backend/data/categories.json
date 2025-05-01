@@ -1,0 +1,420 @@
+[
+  {
+    "_id": "helmet_str",
+    "name": "STR Helmet",
+    "slot": "Helmet",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "helmet_str_pool"
+  },
+  {
+    "_id": "helmet_dex",
+    "name": "DEX Helmet",
+    "slot": "Helmet",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "helmet_dex_pool"
+  },
+  {
+    "_id": "helmet_int",
+    "name": "INT Helmet",
+    "slot": "Helmet",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "helmet_int_pool"
+  },
+  {
+    "_id": "chest_str",
+    "name": "STR Chest",
+    "slot": "Chest",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "chest_str_pool"
+  },
+  {
+    "_id": "chest_dex",
+    "name": "DEX Chest",
+    "slot": "Chest",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "chest_dex_pool"
+  },
+  {
+    "_id": "chest_int",
+    "name": "INT Chest",
+    "slot": "Chest",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "chest_int_pool"
+  },
+  {
+    "_id": "gloves_str",
+    "name": "STR Gloves",
+    "slot": "Gloves",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "gloves_str_pool"
+  },
+  {
+    "_id": "gloves_dex",
+    "name": "DEX Gloves",
+    "slot": "Gloves",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "gloves_dex_pool"
+  },
+  {
+    "_id": "gloves_int",
+    "name": "INT Gloves",
+    "slot": "Gloves",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "gloves_int_pool"
+  },
+  {
+    "_id": "boots_str",
+    "name": "STR Boots",
+    "slot": "Boots",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "boots_str_pool"
+  },
+  {
+    "_id": "boots_dex",
+    "name": "DEX Boots",
+    "slot": "Boots",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "boots_dex_pool"
+  },
+  {
+    "_id": "boots_int",
+    "name": "INT Boots",
+    "slot": "Boots",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "boots_int_pool"
+  },
+  {
+    "_id": "shield_str",
+    "name": "STR Shield",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "shield_str_pool"
+  },
+  {
+    "_id": "shield_dex",
+    "name": "DEX Shield",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "shield_dex_pool"
+  },
+  {
+    "_id": "shield_int",
+    "name": "INT Shield",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "shield_int_pool"
+  },
+  {
+    "_id": "claw",
+    "name": "Claw",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "claw_pool"
+  },
+  {
+    "_id": "dagger",
+    "name": "Dagger",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "dagger_pool"
+  },
+  {
+    "_id": "one_handed_sword",
+    "name": "One Handed Sword",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "one_handed_sword_pool"
+  },
+  {
+    "_id": "one_handed_hammer",
+    "name": "One Handed Hammer",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "one_handed_hammer_pool"
+  },
+  {
+    "_id": "one_handed_axe",
+    "name": "One Handed Axe",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "one_handed_axe_pool"
+  },
+  {
+    "_id": "wand",
+    "name": "Wand",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "wand_pool"
+  },
+  {
+    "_id": "rod",
+    "name": "Rod",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "rod_pool"
+  },
+  {
+    "_id": "scepter",
+    "name": "Scepter",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "scepter_pool"
+  },
+  {
+    "_id": "cane",
+    "name": "Cane",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "cane_pool"
+  },
+  {
+    "_id": "pistol",
+    "name": "Pistol",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": true,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "pistol_pool"
+  },
+  {
+    "_id": "two_handed_sword",
+    "name": "Two Handed Sword",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "two_handed_sword_pool"
+  },
+  {
+    "_id": "two_handed_hammer",
+    "name": "Two Handed Hammer",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "two_handed_hammer_pool"
+  },
+  {
+    "_id": "two_handed_axe",
+    "name": "Two Handed Axe",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "two_handed_axe_pool"
+  },
+  {
+    "_id": "tin_staff",
+    "name": "Tin Staff",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "tin_staff_pool"
+  },
+  {
+    "_id": "cudgel",
+    "name": "Cudgel",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "cudgel_pool"
+  },
+  {
+    "_id": "bow",
+    "name": "Bow",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "bow_pool"
+  },
+  {
+    "_id": "crossbow",
+    "name": "Crossbow",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "crossbow_pool"
+  },
+  {
+    "_id": "musket",
+    "name": "Musket",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "musket_pool"
+  },
+  {
+    "_id": "fire_cannon",
+    "name": "Fire Cannon",
+    "slot": "Weapon",
+    "slotRules": {
+      "canEquipLeft": true,
+      "canEquipRight": false,
+      "requiresTwoHands": true
+    },
+    "affixPoolId": "fire_cannon_pool"
+  },
+  {
+    "_id": "necklace",
+    "name": "Necklace",
+    "slot": "Necklace",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "necklace_pool"
+  },
+  {
+    "_id": "ring",
+    "name": "Ring",
+    "slot": "Ring",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "ring_pool"
+  },
+  {
+    "_id": "spirit_ring",
+    "name": "Spirit Ring",
+    "slot": "Ring",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "spirit_ring_pool"
+  },
+  {
+    "_id": "belt",
+    "name": "Belt",
+    "slot": "Belt",
+    "slotRules": {
+      "canEquipLeft": false,
+      "canEquipRight": false,
+      "requiresTwoHands": false
+    },
+    "affixPoolId": "belt_pool"
+  }
+]
