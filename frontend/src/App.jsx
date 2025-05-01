@@ -10,7 +10,7 @@ function App() {
   });
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/builds')
+    fetch('https://tli-crafting-calculator.onrender.com/api/builds')
       .then((res) => res.json())
       .then((data) => setBuilds(data));
   }, []);
@@ -32,7 +32,7 @@ function App() {
       estimatedCost: parseInt(form.estimatedCost)
     };
 
-    const res = await fetch('http://localhost:5000/api/builds', {
+    const res = await fetch('https://tli-crafting-calculator.onrender.com/api/builds', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
