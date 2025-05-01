@@ -14,11 +14,11 @@ app.use(express.json()); // <-- Make sure this is here and not missing
 const buildsRoute = require("./routes/builds");
 app.use("/api/builds", buildsRoute);
 
-// Optional root route (for Render home page check)
-app.get("/", (req, res) => {
-    res.send("Backend API is live. Visit /api/builds to test.");
-  });
-  
+
+// Routes
+app.get("/api", (req, res) => {
+  res.json({ message: "API is working!" });
+});
 
 // MongoDB connection
 mongoose.connect(process.env.MONGO_URI)
