@@ -1,0 +1,833 @@
+[
+    {
+        "name": "Ranger's Broken Mask",
+        "categoryId": "helmet_str",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 1920,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Old King's Crown",
+        "categoryId": "helmet_str",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 1777,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Fallen Knight Helmet",
+        "categoryId": "helmet_str",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1615,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Dragon Guardian's Faceguard",
+        "categoryId": "helmet_str",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1346,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Divine Arbiter's Diadem",
+        "categoryId": "helmet_str",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1122,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Mountain Lord Helmet",
+        "categoryId": "helmet_str",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 935,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Packleader Helmet",
+        "categoryId": "helmet_str",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 779,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Iron Sentry's Helmet",
+        "categoryId": "helmet_str",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 599,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Berserker's Spired Helm",
+        "categoryId": "helmet_str",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 461,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Paladin's Heavy Helm",
+        "categoryId": "helmet_str",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 329,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Brute's Helm",
+        "categoryId": "helmet_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 168,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+    {
+        "name": "Footman Helmet",
+        "categoryId": "helmet_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 235,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_str_pool"
+    },
+
+    {
+        "name": "Secret Shadow's Mask",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 1920,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Demon Slayer's Eyes",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 1777,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Mask of Calamity",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1615,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Eternal Night Stalker's Hood",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1346,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Watcher's Gaze",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1122,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Grand Explorer's Fez",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 935,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Wild Dominator Headdress",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 779,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Prospector's Hat",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 599,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Hunter's Hood",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 461,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Skirmisher's Mask",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 329,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Rogue's hood",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 168,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+    {
+        "name": "Scout's Hood",
+        "categoryId": "helmet_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 235,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_dex_pool"
+    },
+
+    {
+        "name": "Long Night Sorcerer's Mask",
+        "categoryId": "helmet_int",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 146,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "All Magic Crown",
+        "categoryId": "helmet_int",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 120,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Imperishable Miter",
+        "categoryId": "helmet_int",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 103,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Elder Sage's Chapeau",
+        "categoryId": "helmet_int",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 86,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Respected Tutor's Face",
+        "categoryId": "helmet_int",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 69,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Envoy's Mask",
+        "categoryId": "helmet_int",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 56,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Shaman's Headdress",
+        "categoryId": "helmet_int",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 43,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Disciple's Headscarf",
+        "categoryId": "helmet_int",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 35,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Witchdoctor's Mask",
+        "categoryId": "helmet_int",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 26,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Acolyte's Crown",
+        "categoryId": "helmet_int",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 18,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Herbalist's Headscarf",
+        "categoryId": "helmet_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 9,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+    {
+        "name": "Scribe's Headscarf",
+        "categoryId": "helmet_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 13,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "helmet_int_pool"
+    },
+
+
+
+    {
+        "name": "Ranger's Rag",
+        "categoryId": "chest_str",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 2240,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Old King's Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 2073,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Fallen Knight's Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1885,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Dragon Guardian's Lamellar Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1571,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Divine Arbiter's Defense",
+        "categoryId": "chest_str",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1309,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Mountain Lord's Chest Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 1091,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Packleader Chest Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 909,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Iron Sentry's Heavy Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 699,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Berserker's Chest Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 538,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Paladin's Heavy Armor",
+        "categoryId": "chest_str",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 384,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Brute's Chestguard",
+        "categoryId": "chest_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 196,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+    {
+        "name": "Footman's Chestguard",
+        "categoryId": "chest_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 274,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_str_pool"
+    },
+
+    {
+        "name": "Secret Shadow's Protection",
+        "categoryId": "chest_dex",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 2240,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Demon Slayer's Skin",
+        "categoryId": "chest_dex",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 2073,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Sanctuary of Calamity",
+        "categoryId": "chest_dex",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1885,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Eternal Night Stalker's Chestguard",
+        "categoryId": "chest_dex",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1571,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Watcher's Chest Armor",
+        "categoryId": "chest_dex",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1309,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Grand Explorer Outerwear",
+        "categoryId": "chest_dex",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 1091,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Wild Dominator Outerwear",
+        "categoryId": "chest_dex",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 909,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Prospector Outerwear",
+        "categoryId": "chest_dex",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 699,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Hunter's Chestguard",
+        "categoryId": "chest_dex",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 538,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Skirmisher Outerwear",
+        "categoryId": "chest_dex",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 384,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Rogue Outerwear",
+        "categoryId": "chest_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 196,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+    {
+        "name": "Scout's Tight Vest",
+        "categoryId": "chest_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 274,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_dex_pool"
+    },
+
+    {
+        "name": "Lone Night Sorcerer's Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 170,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "All Magic Secret Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 140,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Imperishable Black Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 120,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Elder Sage's Regalia",
+        "categoryId": "chest_int",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 100,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Respected Tutor's Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 80,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Envoy's Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 65,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Shaman's Short Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 50,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Disciple's Coat",
+        "categoryId": "chest_int",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 40,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "WitchDoctor's Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 30,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Acolyte's Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 20,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Herbalist's Robe",
+        "categoryId": "chest_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 10,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+    {
+        "name": "Scribe's Coat",
+        "categoryId": "chest_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 15,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "chest_int_pool"
+    },
+
+
+    {
+        "name": "Dragonhunter Claw",
+        "categoryId": "claw",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 231,
+            "physicalDamage": 154,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "claw"
+    },
+
+    {
+        "name": "Heartflayer Wand",
+        "categoryId": "wand",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 30,
+            "type": "Erosion damage to spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand"
+    }
+]
