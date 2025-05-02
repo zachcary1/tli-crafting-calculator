@@ -1201,6 +1201,406 @@
 
 
     {
+        "name": "Ranger's Dirty Boots",
+        "categoryId": "boots_str",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 1920,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Old King's Sabatons",
+        "categoryId": "boots_str",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 1777,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Fallen Knight's Footguards",
+        "categoryId": "boots_str",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1615,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Dragon Guardian's Footguards",
+        "categoryId": "boots_str",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1346,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Divine Arbiter's Feet",
+        "categoryId": "boots_str",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1122,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Mountain Lord's Feet",
+        "categoryId": "boots_str",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 935,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Packleader Greaves",
+        "categoryId": "boots_str",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 779,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Iron Sentry's Feet",
+        "categoryId": "boots_str",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 599,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Berserker's Footguards",
+        "categoryId": "boots_str",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 461,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Paladin's Iron Greaves",
+        "categoryId": "boots_str",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 329,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Brute's Greaves",
+        "categoryId": "boots_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 168,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+    {
+        "name": "Footman's Boots",
+        "categoryId": "boots_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 235,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_str_pool"
+    },
+
+    {
+        "name": "Secret Shadow's Shoes",
+        "categoryId": "boots_dex",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 1920,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Demon Slayer's Feet",
+        "categoryId": "boots_dex",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 1777,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Boots of Calamity",
+        "categoryId": "boots_dex",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1615,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Eternal Night Stalker's Long Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1346,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Watcher's Trail",
+        "categoryId": "boots_dex",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1122,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Grand Explorer's Heavy Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 935,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Wild Dominator Long Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 779,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Prospector's Short Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 599,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Hunter's Leather Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 461,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Skirmisher's Leather Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 329,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Rogue's Long Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 168,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+    {
+        "name": "Scout's Short Boots",
+        "categoryId": "boots_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 235,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_dex_pool"
+    },
+
+    {
+        "name": "Long Night Sorcerer's Boots",
+        "categoryId": "boots_int",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 146,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "All Magic Shoes",
+        "categoryId": "boots_int",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 120,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Imperishable Feet",
+        "categoryId": "boots_int",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 103,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Elder Sage's Treads",
+        "categoryId": "boots_int",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 86,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Respected Tutor's Footwraps",
+        "categoryId": "boots_int",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 69,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Envoy's Soft Shoes",
+        "categoryId": "boots_int",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 56,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Shaman's Slippers",
+        "categoryId": "boots_int",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 43,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Disciple's Cloth Boots",
+        "categoryId": "boots_int",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 35,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Witchdoctor's Slippers",
+        "categoryId": "boots_int",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 26,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Acolyte's Footwraps",
+        "categoryId": "boots_int",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 18,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Herbalist's Footguards",
+        "categoryId": "boots_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 9,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+    {
+        "name": "Scribe's Boots",
+        "categoryId": "boots_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 13,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "boots_int_pool"
+    },
+
+
+    {
         "name": "Dragonhunter Claw",
         "categoryId": "claw",
         "requiredLevel": 86,
