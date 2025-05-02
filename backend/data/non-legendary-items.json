@@ -1865,6 +1865,269 @@
 
 
     {
+        "name": "Blind Faith Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 231,
+            "physicalDamage": 154,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Truth Speaker's Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 267,
+            "physicalDamage": 178,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Fools' Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 213,
+            "physicalDamage": 142,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Disillusion Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 195,
+            "physicalDamage": 130,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Illusory Dirk",
+        "categoryId": "dagger",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 163,
+            "physicalDamage": 109,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Esoteric Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 133,
+            "physicalDamage": 89,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Hatred Dirk",
+        "categoryId": "dagger",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 109,
+            "physicalDamage": 73,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Sorcerer's Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 85,
+            "physicalDamage": 57,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Godslaughter Short Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 73,
+            "physicalDamage": 49,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Cursed Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 61,
+            "physicalDamage": 41,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Kingslayer Short Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 52,
+            "physicalDamage": 35,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Nightshade Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 45,
+            "physicalDamage": 30,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Violence Short Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Resentment Dirk",
+        "categoryId": "dagger",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Voodoo Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Assassin Short Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 19,
+            "physicalDamage": 13,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Poisoned Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Slaughter Short Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Rusted Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    {
+        "name": "Thief Short Dagger",
+        "categoryId": "dagger",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 9,
+            "physicalDamage": 6,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "dagger"
+    },
+    
+
+
+    {
         "name": "Heartflayer Wand",
         "categoryId": "wand",
         "requiredLevel": 86,
