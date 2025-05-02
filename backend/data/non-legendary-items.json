@@ -1612,7 +1612,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Silence Piercing Claw",
@@ -1625,7 +1625,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Three-Tailed Cat Claw",
@@ -1638,7 +1638,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Delusion Claw",
@@ -1651,7 +1651,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Eagle Claw",
@@ -1664,7 +1664,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Jadebone Katar",
@@ -1677,7 +1677,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Primeval War Claw",
@@ -1690,7 +1690,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Scarlet River Claw",
@@ -1703,7 +1703,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Crimson Tiger Sting",
@@ -1716,7 +1716,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Spinesplitter Katar",
@@ -1729,7 +1729,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Direwolf Fang",
@@ -1742,7 +1742,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Two-Headed Claw",
@@ -1755,7 +1755,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Wailing Claw",
@@ -1768,7 +1768,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Sandstorm Katar",
@@ -1781,7 +1781,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Berserker Claw",
@@ -1794,7 +1794,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Eyestinger Claw",
@@ -1807,7 +1807,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Black Cat Claw",
@@ -1820,7 +1820,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Pickaxe Claw",
@@ -1833,7 +1833,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Shark Tooth",
@@ -1846,7 +1846,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
     {
         "name": "Nailclaw",
@@ -1859,7 +1859,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "claw"
+        "affixPoolId": "claw_pool"
     },
 
 
@@ -1875,7 +1875,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Truth Speaker's Dagger",
@@ -1888,7 +1888,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Fools' Dagger",
@@ -1901,7 +1901,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Disillusion Dagger",
@@ -1914,7 +1914,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Illusory Dirk",
@@ -1927,7 +1927,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Esoteric Dagger",
@@ -1940,7 +1940,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Hatred Dirk",
@@ -1953,7 +1953,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Sorcerer's Dagger",
@@ -1966,7 +1966,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Godslaughter Short Dagger",
@@ -1979,7 +1979,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Cursed Dagger",
@@ -1992,7 +1992,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Kingslayer Short Dagger",
@@ -2005,7 +2005,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Nightshade Dagger",
@@ -2018,7 +2018,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Violence Short Dagger",
@@ -2031,7 +2031,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Resentment Dirk",
@@ -2044,7 +2044,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Voodoo Dagger",
@@ -2057,7 +2057,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Assassin Short Dagger",
@@ -2070,7 +2070,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Poisoned Dagger",
@@ -2083,7 +2083,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Slaughter Short Dagger",
@@ -2096,7 +2096,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Rusted Dagger",
@@ -2109,7 +2109,7 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     {
         "name": "Thief Short Dagger",
@@ -2122,9 +2122,272 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "dagger"
+        "affixPoolId": "dagger_pool"
     },
     
+
+
+    {
+        "name": "Unforgotten Long Blade",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 231,
+            "physicalDamage": 154,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Shadowless Swordsman's Blade",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 267,
+            "physicalDamage": 178,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Forgotten Iron Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 213,
+            "physicalDamage": 142,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Nameless Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 195,
+            "physicalDamage": 130,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Moonlight Long Blade",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 163,
+            "physicalDamage": 109,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Bone Stinger Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 133,
+            "physicalDamage": 89,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Gilt Longsword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 109,
+            "physicalDamage": 73,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Hero's Longsword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 85,
+            "physicalDamage": 57,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Coldlight Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 73,
+            "physicalDamage": 49,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Blizzard Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 61,
+            "physicalDamage": 41,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Hurricane Short Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 52,
+            "physicalDamage": 35,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Talon Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 45,
+            "physicalDamage": 30,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Cold Blade",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Redgold Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Battlefield Longsword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Thorny Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 19,
+            "physicalDamage": 13,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Iron Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Recruit's Saber",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Crude Iron Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },
+    {
+        "name": "Rusted Bronze Sword",
+        "categoryId": "one_handed_sword",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 9,
+            "physicalDamage": 6,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_sword_pool"
+    },    
+
 
 
     {
@@ -2141,6 +2404,6 @@
             "critRating": 500,
             "attackSpeed": 1.5
         },
-        "affixPoolId": "wand"
+        "affixPoolId": "wand_pool"
     }
 ]
