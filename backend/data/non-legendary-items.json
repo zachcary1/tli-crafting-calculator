@@ -2649,7 +2649,270 @@
             "attackSpeed": 1.5
         },
         "affixPoolId": "one_handed_hammer_pool"
-    },    
+    },
+
+
+
+    {
+        "name": "Rebel Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 231,
+            "physicalDamage": 154,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Hollow Rift Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 267,
+            "physicalDamage": 178,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Suppressor Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 213,
+            "physicalDamage": 142,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Vengeance Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 195,
+            "physicalDamage": 130,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Ritual Greataxe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 163,
+            "physicalDamage": 109,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Scarlet Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 133,
+            "physicalDamage": 89,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Frenzy Battle Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 109,
+            "physicalDamage": 73,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Conflict War Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 85,
+            "physicalDamage": 57,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Bonecrusher Greataxe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 73,
+            "physicalDamage": 49,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Cursed Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 61,
+            "physicalDamage": 41,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Valagon Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 52,
+            "physicalDamage": 35,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Savage Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 45,
+            "physicalDamage": 30,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Earthsplitter Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Scoundrel's Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "War Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Alloy Board Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 19,
+            "physicalDamage": 13,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Sharpened Iron Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Iron Hatchet",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Twisted Copper Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
+    {
+        "name": "Rusted Iron Axe",
+        "categoryId": "one_handed_axe",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 9,
+            "physicalDamage": 6,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_axe_pool"
+    },
 
 
     {
