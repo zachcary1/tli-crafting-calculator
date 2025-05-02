@@ -2391,6 +2391,268 @@
 
 
     {
+        "name": "Melted Iron Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 231,
+            "physicalDamage": 154,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Sierra Forge Light Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 267,
+            "physicalDamage": 178,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "General's War Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 213,
+            "physicalDamage": 142,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Quinn's Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 195,
+            "physicalDamage": 130,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Twilight Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 163,
+            "physicalDamage": 109,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Redgold Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 133,
+            "physicalDamage": 89,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Nature Wooden Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 109,
+            "physicalDamage": 73,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Primeval War Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 85,
+            "physicalDamage": 57,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Rocksplitter Mallet",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 73,
+            "physicalDamage": 49,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Thorny Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 61,
+            "physicalDamage": 41,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Tremor Wooden Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 52,
+            "physicalDamage": 35,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Dragon's Roar Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 45,
+            "physicalDamage": 30,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Nightmare Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Prayer Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Oblivion Maul",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "War Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 19,
+            "physicalDamage": 13,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Black Iron Maul",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Rusted Wooden Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Mossy Stone Hammer",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },
+    {
+        "name": "Witherbark Club",
+        "categoryId": "one_handed_hammer",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 9,
+            "physicalDamage": 6,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "one_handed_hammer_pool"
+    },    
+
+
+    {
         "name": "Heartflayer Wand",
         "categoryId": "wand",
         "requiredLevel": 86,
