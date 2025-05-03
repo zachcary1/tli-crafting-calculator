@@ -4933,6 +4933,329 @@
             "attackSpeed": 1.5
         },
         "affixPoolId": "cane_pool"
+    },
+
+
+
+    {
+        "name": "Centaur Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 60,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "First Man's Scepter",
+        "categoryId": "tin_staff",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 80,
+            "type": "% Spell Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Southern Cross Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 56,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Divinity Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 72,
+        "baseStat": {
+            "value": 52,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Warden's Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 68,
+        "baseStat": {
+            "value": 48,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Wind God's Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 64,
+        "baseStat": {
+            "value": 44,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Devout Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 59,
+        "baseStat": {
+            "value": 40,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Sage's Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 54,
+        "baseStat": {
+            "value": 36,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Voodoo Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 49,
+        "baseStat": {
+            "value": 32,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Twilight Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 44,
+        "baseStat": {
+            "value": 28,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Black Feather Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 24,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "White Crystal Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 34,
+        "baseStat": {
+            "value": 20,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Monkey Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 29,
+        "baseStat": {
+            "value": 18,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Flower Sea Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 16,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Gilt Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 19,
+        "baseStat": {
+            "value": 14,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Viper Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 14,
+        "baseStat": {
+            "value": 12,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Iron Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 10,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Ivory Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 4,
+        "baseStat": {
+            "value": 8,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Bonewood Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 2,
+        "baseStat": {
+            "value": 6,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
+    },
+    {
+        "name": "Withervine Staff",
+        "categoryId": "tin_staff",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 4,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "tin_staff_pool"
     }
 
 ]
