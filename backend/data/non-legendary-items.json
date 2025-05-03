@@ -2915,6 +2915,269 @@
     },
 
 
+
+    {
+        "name": "Black Pass Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 285,
+            "physicalDamage": 190,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Sky Severing Sword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 330,
+            "physicalDamage": 220,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Red Pegasus Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 262,
+            "physicalDamage": 175,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Subjugation Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 240,
+            "physicalDamage": 160,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Vindicator's Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 202,
+            "physicalDamage": 135,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Griffin Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 165,
+            "physicalDamage": 110,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Glory Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 135,
+            "physicalDamage": 90,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Wolfsoul Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 105,
+            "physicalDamage": 70,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Sundering Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 90,
+            "physicalDamage": 60,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Tidal Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 75,
+            "physicalDamage": 50,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Barren Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 64,
+            "physicalDamage": 43,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Gladiator's Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 55,
+            "physicalDamage": 37,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Coldlight Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 46,
+            "physicalDamage": 31,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Ripping Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Conflict Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Iron Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Rock Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 18,
+            "physicalDamage": 12,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Rusted Claymore",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Rottenwood Greatsword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+    {
+        "name": "Crude Wooden Sword",
+        "categoryId": "two_handed_sword",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_sword_pool"
+    },
+
+
     {
         "name": "Heartflayer Wand",
         "categoryId": "wand",
