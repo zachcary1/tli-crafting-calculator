@@ -7772,8 +7772,140 @@
         },
         "weaponStats": null,
         "affixPoolId": "spirit_ring_pool"
+    },
+
+
+
+    {
+        "name": "Wayfarer Waistguard",
+        "categoryId": "belt",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 110,
+            "type": "Max Life"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Elder Sage Girdle",
+        "categoryId": "belt",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 140,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Conqueror Waistguard",
+        "categoryId": "belt",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 95,
+            "type": "Max Life"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Arcanist Girdle",
+        "categoryId": "belt",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 110,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Fearless Waistguard",
+        "categoryId": "belt",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 65,
+            "type": "Max Life"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Magic Girdle",
+        "categoryId": "belt",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 80,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Dragon Scale Waistguard",
+        "categoryId": "belt",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 35,
+            "type": "Max Life"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Radiant Lunar Girdle",
+        "categoryId": "belt",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 50,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Wind Blade Waistguard",
+        "categoryId": "belt",
+        "requiredLevel": 32,
+        "baseStat": {
+            "value": 15,
+            "type": "Max Life"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "God's Grace Girdle",
+        "categoryId": "belt",
+        "requiredLevel": 32,
+        "baseStat": {
+            "value": 18,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Rock Waistguard",
+        "categoryId": "belt",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 10,
+            "type": "Max Life"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
+    },
+    {
+        "name": "Spring Source Girdle",
+        "categoryId": "belt",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 12,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "belt_pool"
     }
-
-
-
 ]
