@@ -7235,6 +7235,207 @@
         },
         "weaponStats": null,
         "affixPoolId": "shield_int_pool"
+    },
+
+
+
+    {
+        "name": "Destroyer's Amulet",
+        "categoryId": "necklace",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 24,
+            "type": "Strength"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Onslaughter's Pendant",
+        "categoryId": "necklace",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 24,
+            "type": "Dexterity"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Sacrificer's Necklace",
+        "categoryId": "necklace",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 24,
+            "type": "Intelligence"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Hero's Amulet",
+        "categoryId": "necklace",
+        "requiredLevel": 78,
+        "baseStat": {
+            "value": 18,
+            "type": "Strength"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Assassin's Pendant",
+        "categoryId": "necklace",
+        "requiredLevel": 78,
+        "baseStat": {
+            "value": 18,
+            "type": "Dexterity"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Sage's Necklace",
+        "categoryId": "necklace",
+        "requiredLevel": 78,
+        "baseStat": {
+            "value": 18,
+            "type": "Intelligence"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Red Crystal Amulet",
+        "categoryId": "necklace",
+        "requiredLevel": 56,
+        "baseStat": {
+            "value": 12,
+            "type": "Strength"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Opal Pendant",
+        "categoryId": "necklace",
+        "requiredLevel": 56,
+        "baseStat": {
+            "value": 12,
+            "type": "Dexterity"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Moonstone Necklace",
+        "categoryId": "necklace",
+        "requiredLevel": 56,
+        "baseStat": {
+            "value": 12,
+            "type": "Intelligence"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Flare Amulet",
+        "categoryId": "necklace",
+        "requiredLevel": 38,
+        "baseStat": {
+            "value": 8,
+            "type": "Strength"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Ripple Pendant",
+        "categoryId": "necklace",
+        "requiredLevel": 38,
+        "baseStat": {
+            "value": 8,
+            "type": "Dexterity"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Lunar Corona Necklace",
+        "categoryId": "necklace",
+        "requiredLevel": 38,
+        "baseStat": {
+            "value": 8,
+            "type": "Intelligence"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Cataclysm Amulet",
+        "categoryId": "necklace",
+        "requiredLevel": 32,
+        "baseStat": {
+            "value": 5,
+            "type": "Strength"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Sunlight Pendant",
+        "categoryId": "necklace",
+        "requiredLevel": 32,
+        "baseStat": {
+            "value": 5,
+            "type": "Dexterity"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Shaman's Necklace",
+        "categoryId": "necklace",
+        "requiredLevel": 32,
+        "baseStat": {
+            "value": 5,
+            "type": "Intelligence"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Tortoiseshell Amulet",
+        "categoryId": "necklace",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "Strength"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Cinnabar Pendant",
+        "categoryId": "necklace",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "Dexterity"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
+    },
+    {
+        "name": "Obsidian Necklace",
+        "categoryId": "necklace",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "Intelligence"
+        },
+        "weaponStats": null,
+        "affixPoolId": "necklace_pool"
     }
 
 ]
