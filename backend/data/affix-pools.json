@@ -10,7 +10,7 @@
       [
         {
           "id": "max_life_basic",
-          "stat": "Max Life",
+          "stat": ["Max Life"],
           "description": "+({min} - {max}) Max Life",
           "tiers": 
           [
@@ -26,7 +26,7 @@
         },
         {
           "id": "gear_armor_basic",
-          "stat": "Gear Armor",
+          "stat": ["Gear Armor"],
           "description": "+({min} - {max}) Gear Armor",
           "tiers": 
           [
@@ -42,7 +42,7 @@
         },
         {
           "id": "percent_damage_basic",
-          "stat": "% Damage",
+          "stat": ["% Damage"],
           "description": "+({min} - {max})% damage",
           "tiers": 
           [
@@ -58,7 +58,7 @@
         },
         {
           "id": "minion_damage_basic",
-          "stat": "Minion Damage",
+          "stat": ["Minion Damage"],
           "description": "+({min} - {max})% Minion Damage",
           "tiers": 
           [
@@ -77,7 +77,7 @@
       [
         {
           "id": "block_ratio_advanced",
-          "stat": "Block Ratio",
+          "stat": ["Block Ratio"],
           "description": "+({min} - {max})% Block Ratio",
           "tiers": 
           [
@@ -88,7 +88,7 @@
         },
         {
           "id": "strength_advanced",
-          "stat": "Strength",
+          "stat": ["Strength"],
           "description": "+({min} - {max}) Strength",
           "tiers": 
           [
@@ -104,7 +104,7 @@
         },
         {
           "id": "intelligence_advanced",
-          "stat": "Intelligence",
+          "stat": ["Intelligence"],
           "description": "+({min} - {max}) Intelligence",
           "tiers": 
           [
@@ -120,7 +120,7 @@
         },
         {
           "id": "dexterity_advanced",
-          "stat": "Dexterity",
+          "stat": ["Dexterity"],
           "description": "+({min} - {max}) Dexterity",
           "tiers": 
           [
@@ -136,7 +136,7 @@
         },
         {
           "id": "projectile_speed_advanced",
-          "stat": "Projectile Speed",
+          "stat": ["Projectile Speed"],
           "description": "+({min} - {max})% Projectile Speed",
           "tiers": 
           [
@@ -152,7 +152,7 @@
         },
         {
           "id": "tenacity_blessing_stack_on_defeat_advanced",
-          "stat": "1 Stack of Tenacity Blessing on defeat",
+          "stat": ["1 Stack of Tenacity Blessing on defeat"],
           "description": "+({min} - {max})% chance to gain 1 stack of Tenacity Blessing on defeat",
           "tiers": 
           [
@@ -168,7 +168,7 @@
         },
         {
           "id": "barrier_shield_advanced",
-          "stat": "Barrier Shield",
+          "stat": ["Barrier Shield"],
           "description": "+({min} - {max})% Barrier Shield",
           "tiers": 
           [
@@ -183,7 +183,63 @@
           ]
         }
       ],
-      "ultimate": []
+      "ultimate": 
+      [
+        {
+          "id": "convert_physical_damage_taken_to_fire_ultimate",
+          "stat": ["Convert Physical Damage taken to Fire Damage"],
+          "description": "Converts ({min} - {max})% of Physical Damage taken to Fire Damage",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 15, "max": 20, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": 11, "max": 14, "weight": 200 },
+            { "tier": 3, "requiredLevel": 100, "min": 9, "max": 10, "weight": 800 }
+          ]
+        },
+        {
+          "id": "max_spell_burst_ultimate",
+          "stat": ["Max Spell Burst"],
+          "description": "+({min} - {max}) Max Spell Burst",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 1, "max": 1, "weight": 100 }
+          ]
+        },
+        {
+          "id": "max_terra_charge_stacks_ultimate",
+          "stat": ["Max Terra Charge Stacks"],
+          "description": "+({min} - {max}) Max Terra Charge Stacks",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 1, "max": 1, "weight": 100 }
+          ]
+        },
+        {
+          "id": "sealed_mana_compensation_ultimate",
+          "stat": ["Sealed Mana Compensation"],
+          "description": "+({min} - {max})% Sealed Mana Compensation",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 15, "max": 20, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": 11, "max": 14, "weight": 200 }
+          ]
+        },
+        {
+          "id": "additional_damage_dealt_by_nearby_enemies_ultimate",
+          "stat": ["Additional Damage dealt by Nearby enemies"],
+          "description": "({min} - {max})% additional Damage dealt by Nearby enemies",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": -15, "max": -12, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": -11, "max": -9, "weight": 200 }
+          ]
+        }
+      ]
     },
     "suffixes": 
     {
@@ -191,7 +247,7 @@
       [
         {
           "id": "life_regen_basic",
-          "stat": "Life Regeneration",
+          "stat": ["Life Regeneration"],
           "description": "Regenerates ({min} - {max}) Life per second",
           "tiers": 
           [
@@ -207,7 +263,7 @@
         },
         {
           "id": "fire_resist_basic",
-          "stat": "Fire Resistance",
+          "stat": ["Fire Resistance"],
           "description": "+({min} - {max})% Fire Resistance",
           "tiers": 
           [
@@ -223,7 +279,7 @@
         },
         {
           "id": "cold_resist_basic",
-          "stat": "Cold Resistance",
+          "stat": ["Cold Resistance"],
           "description": "+({min} - {max})% Cold Resistance",
           "tiers": [
             { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
@@ -238,7 +294,7 @@
         },
         {
           "id": "lightning_resist_basic",
-          "stat": "Lightning Resistance",
+          "stat": ["Lightning Resistance"],
           "description": "+({min} - {max})% Lightning Resistance",
           "tiers": 
           [
@@ -254,7 +310,7 @@
         },
         {
           "id": "erosion_resist_basic",
-          "stat": "Erosion Resistance",
+          "stat": ["Erosion Resistance"],
           "description": "+({min} - {max})% Erosion Resistance",
           "tiers": 
           [
@@ -270,7 +326,7 @@
         },
         {
           "id": "critical_strike_rating_basic",
-          "stat": "Critical Strike Rating",
+          "stat": ["Critical Strike Rating"],
           "description": "+({min} - {max})% Critical Strike Rating",
           "tiers": 
           [
@@ -285,7 +341,7 @@
         },
         {
           "id": "affliction_effect_basic",
-          "stat": "Affliction Effect",
+          "stat": ["Affliction Effect"],
           "description": "+({min} - {max})% Affliction Effect",
           "tiers": 
           [
@@ -301,7 +357,7 @@
       [
         {
           "id": "critical_strike_damage_advanced",
-          "stat": "Critical Strike Damage",
+          "stat": ["Critical Strike Damage"],
           "description": "+({min} - {max})% Critical Strike Damage",
           "tiers": 
           [
@@ -314,9 +370,124 @@
             { "tier": 6, "requiredLevel": 40, "min": 7, "max": 10, "weight": 6250 },
             { "tier": 7, "requiredLevel": 1, "min": 5, "max": 6, "weight": 6250 }
           ]
+        },
+        {
+          "id": "skill_area_and_minion_skill_area_advanced",
+          "stat": ["Skill Area", "Minion Skill Area"],
+          "description": "+({min} - {max})% Skill Area\n+({min} - {max})% Minion Skill Area",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 86, "min": 35, "max": 48, "weight": 100 },
+            { "tier": 2, "requiredLevel": 82, "min": 25, "max": 34, "weight": 200 },
+            { "tier": 3, "requiredLevel": 76, "min": 20, "max": 24, "weight": 800 },
+            { "tier": 4, "requiredLevel": 68, "min": 16, "max": 19, "weight": 3200 },
+            { "tier": 5, "requiredLevel": 58, "min": 13, "max": 15, "weight": 3200 },
+            { "tier": 6, "requiredLevel": 40, "min": 11, "max": 12, "weight": 6250 }
+          ]
+        },
+        {
+          "id": "attack_cast_speed_and_minion_attack_cast_speed_advanced",
+          "stat": ["Attack and Cast Speed", "Minion Attack and Cast Speed"],
+          "description": "+({min} - {max})% Attack and Cast Speed\n+({min} - {max})% Minion Attack and Cast Speed",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 86, "min": 18, "max": 24, "weight": 100 },
+            { "tier": 2, "requiredLevel": 82, "min": 13, "max": 17, "weight": 200 },
+            { "tier": 3, "requiredLevel": 76, "min": 10, "max": 12, "weight": 800 },
+            { "tier": 4, "requiredLevel": 68, "min": 7, "max": 9, "weight": 3200 },
+            { "tier": 5, "requiredLevel": 58, "min": 5, "max": 6, "weight": 3200 },
+            { "tier": 6, "requiredLevel": 40, "min": 4, "max": 4, "weight": 6250 },
+            { "tier": 7, "requiredLevel": 1, "min": 3, "max": 3, "weight": 6250 }
+          ]
+        },
+        {
+          "id": "reaping_duration_advanced",
+          "stat": ["Reaping Duration"],
+          "description": "+({min} - {max})% Reaping Duration",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 86, "min": 36, "max": 50, "weight": 100 },
+            { "tier": 2, "requiredLevel": 82, "min": 26, "max": 35, "weight": 200 },
+            { "tier": 3, "requiredLevel": 76, "min": 21, "max": 25, "weight": 800 },
+            { "tier": 4, "requiredLevel": 68, "min": 17, "max": 20, "weight": 3200 },
+            { "tier": 5, "requiredLevel": 58, "min": 14, "max": 16, "weight": 3200 },
+            { "tier": 6, "requiredLevel": 40, "min": 11, "max": 13, "weight": 6250 },
+            { "tier": 7, "requiredLevel": 1, "min": 9, "max": 10, "weight": 6250 }
+          ]
+        },
+        {
+          "id": "armor_and_max_life_advanced",
+          "stat": ["Armor", "Max Life"],
+          "description": "+({armorMin} - {armorMax})% Armor\n+({minLife} - {maxLife}) Max Life",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 86, "min": {"armor":14, "life":78}, "max": {"armor":18, "life":110}, "weight": 100 },
+            { "tier": 2, "requiredLevel": 82, "min": {"armor":10, "life":56}, "max": {"armor":13, "life":77}, "weight": 200 },
+            { "tier": 3, "requiredLevel": 76, "min": {"armor":10, "life":45}, "max": {"armor":13, "life":55}, "weight": 800 },
+            { "tier": 4, "requiredLevel": 68, "min": {"armor":7, "life":36}, "max": {"armor":7, "life":44}, "weight": 3200 },
+            { "tier": 5, "requiredLevel": 58, "min": {"armor":6, "life":30}, "max": {"armor":6, "life":35}, "weight": 3200 },
+            { "tier": 6, "requiredLevel": 40, "min": {"armor":5, "life":23}, "max": {"armor":5, "life":29}, "weight": 6250 },
+            { "tier": 7, "requiredLevel": 1,"min": {"armor":4, "life":18}, "max": {"armor":4, "life":22}, "weight": 6250 }
+          ]
         }
       ],
-      "ultimate": []
+      "ultimate": 
+      [
+        {
+          "id": "support_skill_level_ultimate",
+          "stat": ["Support Skill Level"],
+          "description": "+({min} - {max}) Support Skill Level",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 2, "max": 2, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": 1, "max": 1, "weight": 200 }
+          ]
+        },
+        {
+          "id": "additional_damage_taken_by_nearby_enemies_ultimate",
+          "stat": ["Additional Damage Taken by Nearby Enemies"],
+          "description": "+({min} - {max})% Additional Damage Taken by Nearby Enemies",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 18, "max": 24, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": 13, "max": 17, "weight": 200 }
+          ]
+        },
+        {
+          "id": "reaping_cooldown_recovery_speed_ultimate",
+          "stat": ["Reaping Cooldown Recovery Speed"],
+          "description": "+({min} - {max})% Reaping Cooldown Recovery Speed",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 59, "max": 83, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": 43, "max": 58, "weight": 200 },
+            { "tier": 3, "requiredLevel": 100, "min": 34, "max": 42, "weight": 800 }
+          ]
+        },
+        {
+          "id": "numbed_effect_ultimate",
+          "stat": ["Numbed Effect"],
+          "description": "+({min} - {max})% Numbed Effect",
+          "tiers": 
+          [
+            { "tier": 0, "requiredLevel": null, "min": null, "max": null, "weight": null },
+            { "tier": 1, "requiredLevel": 100, "min": 29, "max": 40, "weight": 100 },
+            { "tier": 2, "requiredLevel": 100, "min": 21, "max": 28, "weight": 200 },
+            { "tier": 3, "requiredLevel": 100, "min": 17, "max": 20, "weight": 800 },
+            { "tier": 4, "requiredLevel": 100, "min": 14, "max": 16, "weight": 3200 },
+            { "tier": 5, "requiredLevel": 100, "min": 11, "max": 13, "weight": 3200 },
+            { "tier": 6, "requiredLevel": 100, "min": 9, "max": 10, "weight": 6250 },
+            { "tier": 7, "requiredLevel": 100, "min": 7, "max": 8, "weight": 6250 }
+          ]
+        }
+      ]
     }
   },
 

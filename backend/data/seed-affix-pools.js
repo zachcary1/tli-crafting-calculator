@@ -7,14 +7,14 @@ require("dotenv").config({ path: path.resolve(__dirname, "../.env") });
 const TierSchema = new mongoose.Schema({
   tier: Number,
   requiredLevel: Number,
-  min: Number,
-  max: Number,
+  min: { type: mongoose.Schema.Types.Mixed },
+  max: { type: mongoose.Schema.Types.Mixed },
   weight: Number
 }, { _id: false });
 
 const AffixSchema = new mongoose.Schema({
   id: String,
-  stat: String,
+  stat: [String],
   description: String,
   tiers: [TierSchema]
 }, { _id: false });
