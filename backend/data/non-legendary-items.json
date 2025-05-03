@@ -5256,6 +5256,269 @@
             "attackSpeed": 1.2
         },
         "affixPoolId": "tin_staff_pool"
+    },
+
+
+
+    {
+        "name": "Executive Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 285,
+            "physicalDamage": 190,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Last Man's Cudgel",
+        "categoryId": "cudgel",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 330,
+            "physicalDamage": 220,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Absolver Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 262,
+            "physicalDamage": 175,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Reincarnation Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 240,
+            "physicalDamage": 160,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Origin Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 202,
+            "physicalDamage": 135,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Esoteric Cudgel",
+        "categoryId": "cudgel",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 165,
+            "physicalDamage": 110,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Perishing Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 135,
+            "physicalDamage": 90,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Judge's Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 105,
+            "physicalDamage": 70,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Sacred Tree Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 90,
+            "physicalDamage": 60,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Conviction Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 75,
+            "physicalDamage": 50,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Flower Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 64,
+            "physicalDamage": 43,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Authority Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 55,
+            "physicalDamage": 37,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Ancestral Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 46,
+            "physicalDamage": 31,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Broken Mirror Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Confession Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Dryad Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Ascetic Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 18,
+            "physicalDamage": 12,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Thorny Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Cultivation Iron Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
+    },
+    {
+        "name": "Witherbark Staff",
+        "categoryId": "cudgel",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cudgel_pool"
     }
 
 ]
