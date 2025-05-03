@@ -3704,13 +3704,318 @@
     },
 
 
+
     {
         "name": "Heartflayer Wand",
         "categoryId": "wand",
         "requiredLevel": 86,
         "baseStat": {
             "value": 30,
-            "type": "Erosion damage to spells"
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Headless Cleric Wand",
+        "categoryId": "wand",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 32,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Wretched Wand",
+        "categoryId": "wand",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 28,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Azure Moon Wand",
+        "categoryId": "wand",
+        "requiredLevel": 72,
+        "baseStat": {
+            "value": 26,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Scarlet Wand",
+        "categoryId": "wand",
+        "requiredLevel": 68,
+        "baseStat": {
+            "value": 24,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Devout Wand",
+        "categoryId": "wand",
+        "requiredLevel": 64,
+        "baseStat": {
+            "value": 22,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Sage Wand",
+        "categoryId": "wand",
+        "requiredLevel": 59,
+        "baseStat": {
+            "value": 20,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Bard's Wand",
+        "categoryId": "wand",
+        "requiredLevel": 54,
+        "baseStat": {
+            "value": 18,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Wraith Wand",
+        "categoryId": "wand",
+        "requiredLevel": 49,
+        "baseStat": {
+            "value": 16,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Viper Wand",
+        "categoryId": "wand",
+        "requiredLevel": 44,
+        "baseStat": {
+            "value": 14,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "White Crystal Wand",
+        "categoryId": "wand",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 12,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Wiseman's Wand",
+        "categoryId": "wand",
+        "requiredLevel": 34,
+        "baseStat": {
+            "value": 10,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Flower Sea Wand",
+        "categoryId": "wand",
+        "requiredLevel": 29,
+        "baseStat": {
+            "value": 9,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Voodoo Wand",
+        "categoryId": "wand",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 8,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Wind Spirit Wand",
+        "categoryId": "wand",
+        "requiredLevel": 19,
+        "baseStat": {
+            "value": 7,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Spiritwood Wand",
+        "categoryId": "wand",
+        "requiredLevel": 14,
+        "baseStat": {
+            "value": 6,
+            "type": "Cold Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Cuprite Wand",
+        "categoryId": "wand",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 5,
+            "type": "Fire Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Carved Wooden Wand",
+        "categoryId": "wand",
+        "requiredLevel": 4,
+        "baseStat": {
+            "value": 4,
+            "type": "Erosion Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Rambone Wand",
+        "categoryId": "wand",
+        "requiredLevel": 2,
+        "baseStat": {
+            "value": 3,
+            "type": "Lightning Damage to Spells"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "wand_pool"
+    },
+    {
+        "name": "Withervine Wand",
+        "categoryId": "wand",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 2,
+            "type": "Cold Damage to Spells"
         },
         "weaponStats": {
             "physicalDPS": 0,
@@ -3720,4 +4025,5 @@
         },
         "affixPoolId": "wand_pool"
     }
+
 ]
