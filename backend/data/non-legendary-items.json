@@ -7703,6 +7703,77 @@
         },
         "weaponStats": null,
         "affixPoolId": "ring_pool"
+    },
+
+
+
+    {
+        "name": "Essence Spirit Ring",
+        "categoryId": "spirit_ring",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 24,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": null,
+        "affixPoolId": "spirit_ring_pool"
+    },
+    {
+        "name": "Championed Spirit Ring",
+        "categoryId": "spirit_ring",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 18,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": null,
+        "affixPoolId": "spirit_ring_pool"
+    },
+    {
+        "name": "Harvest Spirit Ring",
+        "categoryId": "spirit_ring",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 12,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": null,
+        "affixPoolId": "spirit_ring_pool"
+    },
+    {
+        "name": "Command Spirit Ring",
+        "categoryId": "spirit_ring",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 8,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": null,
+        "affixPoolId": "spirit_ring_pool"
+    },
+    {
+        "name": "Thriving Spirit Ring",
+        "categoryId": "spirit_ring",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 5,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": null,
+        "affixPoolId": "spirit_ring_pool"
+    },
+    {
+        "name": "Budding Spirit Ring",
+        "categoryId": "spirit_ring",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": null,
+        "affixPoolId": "spirit_ring_pool"
     }
+
+
 
 ]
