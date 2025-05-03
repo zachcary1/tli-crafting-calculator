@@ -6045,6 +6045,269 @@
             "attackSpeed": 1.5
         },
         "affixPoolId": "bow_pool"
+    },
+
+
+
+    {
+        "name": "Black Pass Hunting Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 285,
+            "physicalDamage": 190,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "War Ranger's Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 330,
+            "physicalDamage": 220,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Red Pegasus War Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 262,
+            "physicalDamage": 175,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Flowing Blaze Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 240,
+            "physicalDamage": 160,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Scarlet Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 202,
+            "physicalDamage": 135,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Icy War Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 165,
+            "physicalDamage": 110,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Blue Sea War Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 135,
+            "physicalDamage": 90,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Conflict Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 105,
+            "physicalDamage": 70,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Cursed War Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 90,
+            "physicalDamage": 60,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Muddy Long Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 75,
+            "physicalDamage": 50,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Segar Hunting Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 64,
+            "physicalDamage": 43,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Jungle Hunting Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 55,
+            "physicalDamage": 37,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Beastfang Light Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 46,
+            "physicalDamage": 31,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Elven Hunting Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Black Iron Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Soldier's Light Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Bronze Short Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 18,
+            "physicalDamage": 12,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Darkwoods Long Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Rambone Short Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
+    },
+    {
+        "name": "Woodvine Light Crossbow",
+        "categoryId": "crossbow",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "crossbow_pool"
     }
 
 ]
