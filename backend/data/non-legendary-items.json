@@ -3717,7 +3717,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3733,7 +3733,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3749,7 +3749,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3765,7 +3765,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3781,7 +3781,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3797,7 +3797,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3813,7 +3813,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3829,7 +3829,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3845,7 +3845,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3861,7 +3861,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3877,7 +3877,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3893,7 +3893,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3909,7 +3909,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3925,7 +3925,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3941,7 +3941,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3957,7 +3957,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3973,7 +3973,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -3989,7 +3989,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -4005,7 +4005,7 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
     },
@@ -4021,9 +4021,332 @@
             "physicalDPS": 0,
             "physicalDamage": 0,
             "critRating": 500,
-            "attackSpeed": 1.5
+            "attackSpeed": 1.2
         },
         "affixPoolId": "wand_pool"
+    },
+
+
+
+    {
+        "name": "Bard Rod",
+        "categoryId": "rod",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 37,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Heart of All Rod",
+        "categoryId": "rod",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 39,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Astrologer Rod",
+        "categoryId": "rod",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 35,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Star Ocean Rod",
+        "categoryId": "rod",
+        "requiredLevel": 72,
+        "baseStat": {
+            "value": 33,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Cosmic Rod",
+        "categoryId": "rod",
+        "requiredLevel": 68,
+        "baseStat": {
+            "value": 31,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Celestial Rod",
+        "categoryId": "rod",
+        "requiredLevel": 64,
+        "baseStat": {
+            "value": 29,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Beast King Rod",
+        "categoryId": "rod",
+        "requiredLevel": 59,
+        "baseStat": {
+            "value": 27,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Shooting Star Rod",
+        "categoryId": "rod",
+        "requiredLevel": 54,
+        "baseStat": {
+            "value": 25,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Full Moon Rod",
+        "categoryId": "rod",
+        "requiredLevel": 49,
+        "baseStat": {
+            "value": 23,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Daylight Rod",
+        "categoryId": "rod",
+        "requiredLevel": 44,
+        "baseStat": {
+            "value": 21,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Harvest Rod",
+        "categoryId": "rod",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 19,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "River Rod",
+        "categoryId": "rod",
+        "requiredLevel": 34,
+        "baseStat": {
+            "value": 17,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Shepheress Rod",
+        "categoryId": "rod",
+        "requiredLevel": 29,
+        "baseStat": {
+            "value": 15,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Swimming Fish Rod",
+        "categoryId": "rod",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 13,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Flying Bird Rod",
+        "categoryId": "rod",
+        "requiredLevel": 19,
+        "baseStat": {
+            "value": 11,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Waning Moon Rod",
+        "categoryId": "rod",
+        "requiredLevel": 14,
+        "baseStat": {
+            "value": 9,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Storm Rod",
+        "categoryId": "rod",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 7,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Vine Rod",
+        "categoryId": "rod",
+        "requiredLevel": 4,
+        "baseStat": {
+            "value": 5,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Thriving Rod",
+        "categoryId": "rod",
+        "requiredLevel": 2,
+        "baseStat": {
+            "value": 3,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
+    },
+    {
+        "name": "Bud Rod",
+        "categoryId": "rod",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 2,
+            "type": "% Minion Damage"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "rod_pool"
     }
 
 ]
