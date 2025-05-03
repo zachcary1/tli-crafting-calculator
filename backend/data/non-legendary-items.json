@@ -3441,6 +3441,269 @@
     },
 
 
+
+    {
+        "name": "Black Pass Board Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 285,
+            "physicalDamage": 190,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Earthrending Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 330,
+            "physicalDamage": 220,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Red Pegasus Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 262,
+            "physicalDamage": 175,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Fallen Star Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 240,
+            "physicalDamage": 160,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Lava Board Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 202,
+            "physicalDamage": 135,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Ripping Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 165,
+            "physicalDamage": 110,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Blue Sea Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 135,
+            "physicalDamage": 90,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Griffin Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 105,
+            "physicalDamage": 70,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Unpredictable Board Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 90,
+            "physicalDamage": 60,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Redgold Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 75,
+            "physicalDamage": 50,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Doomsday Board Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 64,
+            "physicalDamage": 43,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Giant's Board Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 55,
+            "physicalDamage": 37,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Blazing Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 46,
+            "physicalDamage": 31,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Marsh Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Gilt Board Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Coldlight Greataxe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Hardrock Stone Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 18,
+            "physicalDamage": 12,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Iron Battle Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Gigantic Stone Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+    {
+        "name": "Shattered Iron Axe",
+        "categoryId": "two_handed_axe",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "two_handed_axe_pool"
+    },
+
+
     {
         "name": "Heartflayer Wand",
         "categoryId": "wand",
