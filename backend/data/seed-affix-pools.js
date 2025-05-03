@@ -43,7 +43,7 @@ async function run() {
   await mongoose.connect(process.env.MONGO_URI);
   console.log("✅ Connected to MongoDB");
 
-  const affixPools = JSON.parse(fs.readFileSync("./data/affix-pools.json", "utf-8"));
+  const affixPools = JSON.parse(fs.readFileSync("./backend/data/affix-pools.json", "utf-8"));
 
   await AffixPool.deleteMany();
   console.log("🧹 Cleared old affix pools");
