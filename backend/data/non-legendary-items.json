@@ -6834,6 +6834,407 @@
             "attackSpeed": 1.5
         },
         "affixPoolId": "fire_cannon_pool"
+    },
+
+
+
+    {
+        "name": "Future Warrior's Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 1920,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Red Pegasus Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 1777,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Glory Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1615,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Monarch's Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1346,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Vindicator's Tower Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1122,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Warlord's Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 935,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Falling Star Tower Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 779,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Callous Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 599,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Crimson Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 461,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Griffin Tower Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 329,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Aspiration Tower Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 168,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+    {
+        "name": "Starmetal Kite Shield",
+        "categoryId": "shield_str",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 235,
+            "type": "Armor"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_str_pool"
+    },
+
+    {
+        "name": "Lost Ranger's Light Shield",
+        "categoryId": "shield_dex",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 1920,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Conqueror Buckler",
+        "categoryId": "shield_dex",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 1777,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Wind God's Buckler",
+        "categoryId": "shield_dex",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 1615,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Shadow Light Shield",
+        "categoryId": "shield_dex",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 1346,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Viper Buckler",
+        "categoryId": "shield_dex",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 1122,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Cursed Light Shield",
+        "categoryId": "shield_dex",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 935,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Thunder Light Shield",
+        "categoryId": "shield_dex",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 779,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Hunter's Buckler",
+        "categoryId": "shield_dex",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 599,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Dragonfang Buckler",
+        "categoryId": "shield_dex",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 461,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Wind Spirit Light Shield",
+        "categoryId": "shield_dex",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 329,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Aspiration Light Shield",
+        "categoryId": "shield_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 168,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+    {
+        "name": "Griffin Buckler",
+        "categoryId": "shield_dex",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 235,
+            "type": "Evasion"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_dex_pool"
+    },
+
+    {
+        "name": "Ninth Apostle's Magic Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 146,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Fraudster Magic Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 120,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Twilight Square Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 70,
+        "baseStat": {
+            "value": 103,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Spirit Lord's Caster Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 86,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Sage's Caster Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 62,
+        "baseStat": {
+            "value": 69,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Blizzard Square Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 57,
+        "baseStat": {
+            "value": 56,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Abyssal Square Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 43,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Nature Caster Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 35,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Freedom Square Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 26,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Bard's Square Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 18,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Aspiration Magic Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 9,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
+    },
+    {
+        "name": "Voodoo Caster Shield",
+        "categoryId": "shield_int",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 13,
+            "type": "Max Energy Shield"
+        },
+        "weaponStats": null,
+        "affixPoolId": "shield_int_pool"
     }
 
 ]
