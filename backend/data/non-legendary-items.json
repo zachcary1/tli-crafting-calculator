@@ -4347,6 +4347,330 @@
             "attackSpeed": 1.2
         },
         "affixPoolId": "rod_pool"
+    },
+
+
+
+    {
+        "name": "Thorn Sea Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 37,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Dark Gaze Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 86,
+        "baseStat": {
+            "value": 39,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Trickster Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 35,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Reflux Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 72,
+        "baseStat": {
+            "value": 33,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Judgement Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 68,
+        "baseStat": {
+            "value": 31,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Spiral Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 64,
+        "baseStat": {
+            "value": 29,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Rotten Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 59,
+        "baseStat": {
+            "value": 27,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Agony Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 54,
+        "baseStat": {
+            "value": 25,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Sorrow Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 49,
+        "baseStat": {
+            "value": 23,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Deception Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 44,
+        "baseStat": {
+            "value": 21,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Stigmata Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 39,
+        "baseStat": {
+            "value": 19,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Red Rain Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 34,
+        "baseStat": {
+            "value": 17,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Eternal Night Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 29,
+        "baseStat": {
+            "value": 15,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Hanging Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 13,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "High Tower Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 19,
+        "baseStat": {
+            "value": 11,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Disorientation Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 14,
+        "baseStat": {
+            "value": 9,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Lamentation Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 9,
+        "baseStat": {
+            "value": 7,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Barren Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 4,
+        "baseStat": {
+            "value": 5,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Marsh Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 2,
+        "baseStat": {
+            "value": 3,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
+    },
+    {
+        "name": "Withering Scepter",
+        "categoryId": "scepter",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 2,
+            "type": "% Damage Over Time"
+        },
+        "weaponStats": {
+            "physicalDPS": 0,
+            "physicalDamage": 0,
+            "critRating": 500,
+            "attackSpeed": 1.2
+        },
+        "affixPoolId": "scepter_pool"
     }
+
 
 ]
