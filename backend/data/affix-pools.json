@@ -1,0 +1,701 @@
+[
+  {
+    "_id": "helmet_str_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "helmet_dex_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "helmet_int_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "chest_str_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "chest_dex_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "chest_int_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "gloves_str_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "gloves_dex_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "gloves_int_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "boots_str_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "boots_dex_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+  
+  {
+    "_id": "boots_int_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "claw_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "dagger_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "one_handed_sword_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "one_handed_hammer_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "one_handed_axe_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "wand_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "rod_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "scepter_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "cane_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "pistol_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "two_handed_sword_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "two_handed_hammer_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "two_handed_axe_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "tin_staff_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "cudgel_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "bow_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "crossbow_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "musket_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "fire_cannon_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "shield_str_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "shield_dex_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+  {
+    "_id": "shield_int_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "necklace_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "ring_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "spirit_ring_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  },
+
+
+
+  {
+    "_id": "belt_pool",
+    "baseAffix": [],
+    "sweetDream": [],
+    "nightmare": [],
+    "prefixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    },
+    "suffixes": {
+      "basic": [],
+      "advanced": [],
+      "ultimate": []
+    }
+  }
+]
