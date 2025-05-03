@@ -7436,6 +7436,273 @@
         },
         "weaponStats": null,
         "affixPoolId": "necklace_pool"
+    },
+
+
+
+    {
+        "name": "Perishing Inferno Flame Ring",
+        "categoryId": "ring",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 12,
+            "type": "% Fire Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Eternal Sleep Ice Ring",
+        "categoryId": "ring",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 12,
+            "type": "% Ice Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Thunder Tempered Lightning Ring",
+        "categoryId": "ring",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 12,
+            "type": "% Lightning Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Eternal Gloom Darkness Ring",
+        "categoryId": "ring",
+        "requiredLevel": 82,
+        "baseStat": {
+            "value": 12,
+            "type": "% Erosion Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Torched Flame Ring",
+        "categoryId": "ring",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 11,
+            "type": "% Fire Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Sealed Ice Ring",
+        "categoryId": "ring",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 11,
+            "type": "% Ice Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Punished Lightning Ring",
+        "categoryId": "ring",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 11,
+            "type": "% Lightning Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Imprisoned Darkness Ring",
+        "categoryId": "ring",
+        "requiredLevel": 76,
+        "baseStat": {
+            "value": 11,
+            "type": "% Erosion Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Firestorm Flame Ring",
+        "categoryId": "ring",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 9,
+            "type": "% Fire Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Froct City Ice Ring",
+        "categoryId": "ring",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 9,
+            "type": "% Ice Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "High Heavens Lightning Ring",
+        "categoryId": "ring",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 9,
+            "type": "% Lightning Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Evernight Darkness Ring",
+        "categoryId": "ring",
+        "requiredLevel": 66,
+        "baseStat": {
+            "value": 9,
+            "type": "% Erosion Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Raging Boil Flame Ring",
+        "categoryId": "ring",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 6,
+            "type": "% Fire Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Snow Ice Ring",
+        "categoryId": "ring",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 6,
+            "type": "% Ice Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Chilling Lightning Ring",
+        "categoryId": "ring",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 6,
+            "type": "% Lightning Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Rotten Darkness Ring",
+        "categoryId": "ring",
+        "requiredLevel": 52,
+        "baseStat": {
+            "value": 6,
+            "type": "% Erosion Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Heated Flame Ring",
+        "categoryId": "ring",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 4,
+            "type": "% Fire Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Blight Ice Ring",
+        "categoryId": "ring",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 4,
+            "type": "% Ice Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Dazzling Lightning Ring",
+        "categoryId": "ring",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 4,
+            "type": "% Lightning Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Agony Darkness Ring",
+        "categoryId": "ring",
+        "requiredLevel": 24,
+        "baseStat": {
+            "value": 4,
+            "type": "% Erosion Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Burning Flame Ring",
+        "categoryId": "ring",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "% Fire Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Biting Wind Ice Ring",
+        "categoryId": "ring",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "% Ice Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Calamity Lightning Ring",
+        "categoryId": "ring",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "% Lightning Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
+    },
+    {
+        "name": "Abyss Darkness Ring",
+        "categoryId": "ring",
+        "requiredLevel": 1,
+        "baseStat": {
+            "value": 3,
+            "type": "% Erosion Resistance"
+        },
+        "weaponStats": null,
+        "affixPoolId": "ring_pool"
     }
 
 ]
