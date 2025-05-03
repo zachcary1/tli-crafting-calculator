@@ -4670,7 +4670,269 @@
             "attackSpeed": 1.2
         },
         "affixPoolId": "scepter_pool"
-    }
+    },
 
+
+
+    {
+        "name": "Glimmering Fluorite Cane",
+        "categoryId": "cane",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 231,
+            "physicalDamage": 154,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Sleeping Sage's Cane",
+        "categoryId": "cane",
+        "requiredLevel": 86,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 267,
+            "physicalDamage": 178,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Blue Amber Cane",
+        "categoryId": "cane",
+        "requiredLevel": 82,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 213,
+            "physicalDamage": 142,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Obsidian Cane",
+        "categoryId": "cane",
+        "requiredLevel": 72,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 195,
+            "physicalDamage": 130,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Fallen Pactspirital Short Staff",
+        "categoryId": "cane",
+        "requiredLevel": 68,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 163,
+            "physicalDamage": 109,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Esoteric Cane",
+        "categoryId": "cane",
+        "requiredLevel": 64,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 133,
+            "physicalDamage": 89,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Foreshadow Short Staff",
+        "categoryId": "cane",
+        "requiredLevel": 59,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 109,
+            "physicalDamage": 73,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Dragonblood Cane",
+        "categoryId": "cane",
+        "requiredLevel": 54,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 85,
+            "physicalDamage": 57,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Villain Cane",
+        "categoryId": "cane",
+        "requiredLevel": 49,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 73,
+            "physicalDamage": 49,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Lion Heart Cane",
+        "categoryId": "cane",
+        "requiredLevel": 44,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 61,
+            "physicalDamage": 41,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Traitor Cane",
+        "categoryId": "cane",
+        "requiredLevel": 39,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 52,
+            "physicalDamage": 35,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Leopard Jaw Cane",
+        "categoryId": "cane",
+        "requiredLevel": 34,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 45,
+            "physicalDamage": 30,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Thinker Cane",
+        "categoryId": "cane",
+        "requiredLevel": 29,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 37,
+            "physicalDamage": 25,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Omen Short Staff",
+        "categoryId": "cane",
+        "requiredLevel": 24,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 30,
+            "physicalDamage": 20,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Wolf Fang Cane",
+        "categoryId": "cane",
+        "requiredLevel": 19,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 24,
+            "physicalDamage": 16,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Recluse Cane",
+        "categoryId": "cane",
+        "requiredLevel": 14,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 19,
+            "physicalDamage": 13,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Snake-scale Cane",
+        "categoryId": "cane",
+        "requiredLevel": 9,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 15,
+            "physicalDamage": 10,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Witness Cane",
+        "categoryId": "cane",
+        "requiredLevel": 4,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 12,
+            "physicalDamage": 8,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Rambone Cane",
+        "categoryId": "cane",
+        "requiredLevel": 2,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 10,
+            "physicalDamage": 7,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    },
+    {
+        "name": "Wayfarer Cane",
+        "categoryId": "cane",
+        "requiredLevel": 1,
+        "baseStat": null,
+        "weaponStats": {
+            "physicalDPS": 9,
+            "physicalDamage": 6,
+            "critRating": 500,
+            "attackSpeed": 1.5
+        },
+        "affixPoolId": "cane_pool"
+    }
 
 ]
