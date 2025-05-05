@@ -9,10 +9,7 @@ const TierSchema = new mongoose.Schema({
   requiredLevel: Number,
   min: { type: mongoose.Schema.Types.Mixed },
   max: { type: mongoose.Schema.Types.Mixed },
-  probabilities: {
-    type: Map,
-    of: Number
-  }
+  weight: Number
 }, { _id: false });
 
 const AffixSchema = new mongoose.Schema({
