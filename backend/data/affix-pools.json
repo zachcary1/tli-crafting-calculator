@@ -437,7 +437,7 @@
               "requiredLevel": 68,
               "min": 20,
               "max": 24,
-                "probabilities": {
+              "probabilities": {
                 "100": 0.0399,
                 "86-99": 0
               }
@@ -2324,14 +2324,2403 @@
     "sweetDream": [],
     "nightmare": [],
     "prefixes": {
-      "basic": [],
-      "advanced": [],
-      "ultimate": []
+      "basic": [
+        {
+          "id": "max_life_basic",
+          "stat": [
+            "Max Life"
+          ],
+          "description": "+({min} - {max}) Max Life",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 154,
+              "max": 220,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 129,
+              "max": 154,
+              "probabilities": {
+                "100": 0.0336,
+                "86-99": 0.1012
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 92,
+              "max": 110,
+              "probabilities": {
+                "100": 0.0722,
+                "86-99": 0.1155
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 74,
+              "max": 88,
+              "probabilities": {
+                "100": 0.0704,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 59,
+              "max": 70,
+              "probabilities": {
+                "100": 0.0502,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 48,
+              "max": 57,
+              "probabilities": {
+                "100": 0.0107,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 37,
+              "max": 44,
+              "probabilities": {
+                "100": 0.0029,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "gear_armor_basic",
+          "stat": [
+            "Gear Armor"
+          ],
+          "description": "+({min} - {max}) Gear Armor",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 2017,
+              "max": 2880,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 1694,
+              "max": 2016,
+              "probabilities": {
+                "100": 0.0336,
+                "86-99": 0.1012
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 1210,
+              "max": 1440,
+              "probabilities": {
+                "100": 0.0722,
+                "86-99": 0.1155
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 968,
+              "max": 1152,
+              "probabilities": {
+                "100": 0.0704,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 766,
+              "max": 922,
+              "probabilities": {
+                "100": 0.0502,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 625,
+              "max": 749,
+              "probabilities": {
+                "100": 0.0107,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 433,
+              "max": 576,
+              "probabilities": {
+                "100": 0.0029,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "percent_damage_basic",
+          "stat": [
+            "% Damage"
+          ],
+          "description": "+({min} - {max})% damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 51,
+              "max": 72,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 37,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0336,
+                "86-99": 0.1012
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 30,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0722,
+                "86-99": 0.1155
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 24,
+              "max": 29,
+              "probabilities": {
+                "100": 0.0704,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 20,
+              "max": 23,
+              "probabilities": {
+                "100": 0.0502,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 15,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0107,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 12,
+              "max": 14,
+              "probabilities": {
+                "100": 0.0029,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "minion_damage_basic",
+          "stat": [
+            "Minion Damage"
+          ],
+          "description": "+({min} - {max})% Minion Damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 51,
+              "max": 72,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 37,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0336,
+                "86-99": 0.1012
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 30,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0722,
+                "86-99": 0.1155
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 24,
+              "max": 29,
+              "probabilities": {
+                "100": 0.0704,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 20,
+              "max": 23,
+              "probabilities": {
+                "100": 0.0502,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 15,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0107,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 12,
+              "max": 14,
+              "probabilities": {
+                "100": 0.0029,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "advanced": [
+        {
+          "id": "block_ratio_advanced",
+          "stat": [
+            "Block Ratio"
+          ],
+          "description": "+({min} - {max})% Block Ratio",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 10,
+              "max": 13,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 8,
+              "max": 9,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            }
+          ]
+        },
+        {
+          "id": "strength_advanced",
+          "stat": [
+            "Strength"
+          ],
+          "description": "+({min} - {max}) Strength",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "intelligence_advanced",
+          "stat": [
+            "Intelligence"
+          ],
+          "description": "+({min} - {max}) Intelligence",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "dexterity_advanced",
+          "stat": [
+            "Dexterity"
+          ],
+          "description": "+({min} - {max}) Dexterity",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "projectile_speed_advanced",
+          "stat": [
+            "Projectile Speed"
+          ],
+          "description": "+({min} - {max})% Projectile Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 33,
+              "max": 45,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 24,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 17,
+              "max": 23,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 12,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 8,
+              "max": 11,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 6,
+              "max": 7,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 4,
+              "max": 5,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "agility_blessing_stack_on_defeat_advanced",
+          "stat": [
+            "1 Stack of Agility Blessing on defeat"
+          ],
+          "description": "+({min} - {max})% chance to gain 1 stack of Agility Blessing on defeat",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 37,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 27,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 19,
+              "max": 26,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 13,
+              "max": 18,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 9,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 6,
+              "max": 8,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 4,
+              "max": 5,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "barrier_shield_advanced",
+          "stat": [
+            "Barrier Shield"
+          ],
+          "description": "+({min} - {max})% Barrier Shield",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "ultimate": [
+        {
+          "id": "convert_physical_damage_taken_to_lightning_ultimate",
+          "stat": [
+            "Convert Physical Damage taken to Lightning Damage"
+          ],
+          "description": "Converts ({min} - {max})% of Physical Damage taken to Lightning Damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 15,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 11,
+              "max": 14,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": 9,
+              "max": 10,
+              "probabilities": {
+                "100": 0.3562,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "max_spell_burst_ultimate",
+          "stat": [
+            "Max Spell Burst"
+          ],
+          "description": "+({min} - {max}) Max Spell Burst",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 1,
+              "max": 1,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "max_terra_charge_stacks_ultimate",
+          "stat": [
+            "Max Terra Charge Stacks"
+          ],
+          "description": "+({min} - {max}) Max Terra Charge Stacks",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 1,
+              "max": 1,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "sealed_mana_compensation_ultimate",
+          "stat": [
+            "Sealed Mana Compensation"
+          ],
+          "description": "+({min} - {max})% Sealed Mana Compensation",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 15,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 11,
+              "max": 14,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "additional_damage_dealt_by_nearby_enemies_ultimate",
+          "stat": [
+            "Additional Damage dealt by Nearby enemies"
+          ],
+          "description": "({min} - {max})% additional Damage dealt by Nearby enemies",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": -15,
+              "max": -12,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": -11,
+              "max": -9,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ]
     },
     "suffixes": {
-      "basic": [],
-      "advanced": [],
-      "ultimate": []
+      "basic": [
+        {
+          "id": "life_regen_basic",
+          "stat": [
+            "Life Regeneration"
+          ],
+          "description": "Regenerates ({min} - {max}) Life per second",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 85,
+              "max": 120,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 61,
+              "max": 84,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 49,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 39,
+              "max": 48,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 32,
+              "max": 38,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 31,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 19,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "fire_resist_basic",
+          "stat": [
+            "Fire Resistance"
+          ],
+          "description": "+({min} - {max})% Fire Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "cold_resist_basic",
+          "stat": [
+            "Cold Resistance"
+          ],
+          "description": "+({min} - {max})% Cold Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "lightning_resist_basic",
+          "stat": [
+            "Lightning Resistance"
+          ],
+          "description": "+({min} - {max})% Lightning Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "erosion_resist_basic",
+          "stat": [
+            "Erosion Resistance"
+          ],
+          "description": "+({min} - {max})% Erosion Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "critical_strike_rating_basic",
+          "stat": [
+            "Critical Strike Rating"
+          ],
+          "description": "+({min} - {max})% Critical Strike Rating",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 87,
+              "max": 120,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 62,
+              "max": 86,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 45,
+              "max": 61,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 30,
+              "max": 44,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 20,
+              "max": 29,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 14,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "affliction_effect_basic",
+          "stat": [
+            "Affliction Effect"
+          ],
+          "description": "+({min} - {max})% Affliction Effect",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 36,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 26,
+              "max": 35,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 21,
+              "max": 25,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 17,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "advanced": [
+        {
+          "id": "critical_strike_damage_advanced",
+          "stat": [
+            "Critical Strike Damage"
+          ],
+          "description": "+({min} - {max})% Critical Strike Damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 44,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 32,
+              "max": 43,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 23,
+              "max": 31,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 16,
+              "max": 22,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 11,
+              "max": 15,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 7,
+              "max": 10,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 5,
+              "max": 6,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "skill_area_and_minion_skill_area_advanced",
+          "stat": [
+            "Skill Area",
+            "Minion Skill Area"
+          ],
+          "description": "+({min} - {max})% Skill Area\n+({min} - {max})% Minion Skill Area",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 35,
+              "max": 48,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 25,
+              "max": 34,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 16,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 13,
+              "max": 15,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 11,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "attack_cast_speed_and_minion_attack_cast_speed_advanced",
+          "stat": [
+            "Attack and Cast Speed",
+            "Minion Attack and Cast Speed"
+          ],
+          "description": "+({min} - {max})% Attack and Cast Speed\n+({min} - {max})% Minion Attack and Cast Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 18,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 13,
+              "max": 17,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 7,
+              "max": 9,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 5,
+              "max": 6,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 4,
+              "max": 4,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 3,
+              "max": 3,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "reaping_duration_advanced",
+          "stat": [
+            "Reaping Duration"
+          ],
+          "description": "+({min} - {max})% Reaping Duration",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 36,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 26,
+              "max": 35,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 21,
+              "max": 25,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 17,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 14,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 11,
+              "max": 13,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 9,
+              "max": 10,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "evasion_and_max_life_advanced",
+          "stat": [
+            "Evasion",
+            "Max Life"
+          ],
+          "description": "+({evasionMin} - {evasionMax})% Evasion\n+({minLife} - {maxLife}) Max Life",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": {
+                "armor": 14,
+                "life": 78
+              },
+              "max": {
+                "armor": 18,
+                "life": 110
+              },
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": {
+                "armor": 10,
+                "life": 56
+              },
+              "max": {
+                "armor": 13,
+                "life": 77
+              },
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": {
+                "armor": 10,
+                "life": 45
+              },
+              "max": {
+                "armor": 13,
+                "life": 55
+              },
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": {
+                "armor": 7,
+                "life": 36
+              },
+              "max": {
+                "armor": 7,
+                "life": 44
+              },
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": {
+                "armor": 6,
+                "life": 30
+              },
+              "max": {
+                "armor": 6,
+                "life": 35
+              },
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": {
+                "armor": 5,
+                "life": 23
+              },
+              "max": {
+                "armor": 5,
+                "life": 29
+              },
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": {
+                "armor": 4,
+                "life": 18
+              },
+              "max": {
+                "armor": 4,
+                "life": 22
+              },
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "ultimate": [
+        {
+          "id": "support_skill_level_ultimate",
+          "stat": [
+            "Support Skill Level"
+          ],
+          "description": "+({min} - {max}) Support Skill Level",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 2,
+              "max": 2,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 1,
+              "max": 1,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "additional_damage_taken_by_nearby_enemies_ultimate",
+          "stat": [
+            "Additional Damage Taken by Nearby Enemies"
+          ],
+          "description": "+({min} - {max})% Additional Damage Taken by Nearby Enemies",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 18,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 13,
+              "max": 17,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "reaping_cooldown_recovery_speed_ultimate",
+          "stat": [
+            "Reaping Cooldown Recovery Speed"
+          ],
+          "description": "+({min} - {max})% Reaping Cooldown Recovery Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 59,
+              "max": 83,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 43,
+              "max": 58,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": 34,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0312,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "numbed_effect_ultimate",
+          "stat": [
+            "Numbed Effect"
+          ],
+          "description": "+({min} - {max})% Numbed Effect",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 29,
+              "max": 40,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 21,
+              "max": 28,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": 17,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 100,
+              "min": 14,
+              "max": 16,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 100,
+              "min": 11,
+              "max": 13,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 100,
+              "min": 9,
+              "max": 10,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 100,
+              "min": 7,
+              "max": 8,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "additional_damage_over_time_taken_when_having_at_least_50000_evasion_ultimate",
+          "stat": [
+            "Additional Damage Over Time taken when having at least 50000 Evasion"
+          ],
+          "description": "({min} - {max})% additional Damage Over Time taken when having at least 50000 Evasion",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": -40,
+              "max": -40,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": -35,
+              "max": -35,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": -30,
+              "max": -30,
+              "probabilities": {
+                "100": 0.0312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 100,
+              "min": -25,
+              "max": -25,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 100,
+              "min": -20,
+              "max": -20,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 100,
+              "min": -15,
+              "max": -15,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 100,
+              "min": -10,
+              "max": -10,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -2340,14 +4729,2350 @@
     "sweetDream": [],
     "nightmare": [],
     "prefixes": {
-      "basic": [],
-      "advanced": [],
-      "ultimate": []
+      "basic": [
+        {
+          "id": "max_mana_basic",
+          "stat": [
+            "Max Mana"
+          ],
+          "description": "+({min} - {max}) Max Mana",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 84,
+              "max": 120,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 71,
+              "max": 84,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 50,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 40,
+              "max": 48,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 32,
+              "max": 38,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 26,
+              "max": 31,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "flat_gear_energy_shield_basic",
+          "stat": [
+            "Gear Energy Shield"
+          ],
+          "description": "+({min} - {max}) Gear Energy Shield",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 239,
+              "max": 340,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 171,
+              "max": 328,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 137,
+              "max": 170,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 110,
+              "max": 136,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 89,
+              "max": 109,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 69,
+              "max": 88,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 52,
+              "max": 68,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "percent_gear_energy_shield_basic",
+          "stat": [
+            "Gear Energy Shield"
+          ],
+          "description": "+({min} - {max})% Gear Energy Shield",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 66,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 39,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 28,
+              "max": 33,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 23,
+              "max": 26,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 18,
+              "max": 21,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 15,
+              "max": 17,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "percent_damage_basic",
+          "stat": [
+            "% Damage"
+          ],
+          "description": "+({min} - {max})% damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 51,
+              "max": 72,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 37,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 30,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 24,
+              "max": 29,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 20,
+              "max": 23,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 15,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 12,
+              "max": 14,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "minion_damage_basic",
+          "stat": [
+            "Minion Damage"
+          ],
+          "description": "+({min} - {max})% Minion Damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 51,
+              "max": 72,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 37,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 30,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 24,
+              "max": 29,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 20,
+              "max": 23,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 15,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 12,
+              "max": 14,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "advanced": [
+        {
+          "id": "block_ratio_advanced",
+          "stat": [
+            "Block Ratio"
+          ],
+          "description": "+({min} - {max})% Block Ratio",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 10,
+              "max": 13,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 8,
+              "max": 9,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            }
+          ]
+        },
+        {
+          "id": "strength_advanced",
+          "stat": [
+            "Strength"
+          ],
+          "description": "+({min} - {max}) Strength",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "intelligence_advanced",
+          "stat": [
+            "Intelligence"
+          ],
+          "description": "+({min} - {max}) Intelligence",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "dexterity_advanced",
+          "stat": [
+            "Dexterity"
+          ],
+          "description": "+({min} - {max}) Dexterity",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "projectile_speed_advanced",
+          "stat": [
+            "Projectile Speed"
+          ],
+          "description": "+({min} - {max})% Projectile Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 33,
+              "max": 45,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 24,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 17,
+              "max": 23,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 12,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 8,
+              "max": 11,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 6,
+              "max": 7,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 4,
+              "max": 5,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "focus_blessing_stack_on_defeat_advanced",
+          "stat": [
+            "1 Stack of Focus Blessing on defeat"
+          ],
+          "description": "+({min} - {max})% chance to gain 1 stack of Focus Blessing on defeat",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 37,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 27,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 19,
+              "max": 26,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 13,
+              "max": 18,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 9,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 6,
+              "max": 8,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 4,
+              "max": 5,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "barrier_shield_advanced",
+          "stat": [
+            "Barrier Shield"
+          ],
+          "description": "+({min} - {max})% Barrier Shield",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 43,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 31,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0410,
+                "86-99": 0.0234
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0399,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 17,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0016,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "ultimate": [
+        {
+          "id": "convert_physical_damage_taken_to_cold_ultimate",
+          "stat": [
+            "Convert Physical Damage taken to Cold Damage"
+          ],
+          "description": "Converts ({min} - {max})% of Physical Damage taken to Cold Damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 15,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 11,
+              "max": 14,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": 9,
+              "max": 10,
+              "probabilities": {
+                "100": 0.3562,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "max_spell_burst_ultimate",
+          "stat": [
+            "Max Spell Burst"
+          ],
+          "description": "+({min} - {max}) Max Spell Burst",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 1,
+              "max": 1,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "max_terra_charge_stacks_ultimate",
+          "stat": [
+            "Max Terra Charge Stacks"
+          ],
+          "description": "+({min} - {max}) Max Terra Charge Stacks",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 1,
+              "max": 1,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "sealed_mana_compensation_ultimate",
+          "stat": [
+            "Sealed Mana Compensation"
+          ],
+          "description": "+({min} - {max})% Sealed Mana Compensation",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 15,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 11,
+              "max": 14,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "additional_damage_dealt_by_nearby_enemies_ultimate",
+          "stat": [
+            "Additional Damage dealt by Nearby enemies"
+          ],
+          "description": "({min} - {max})% additional Damage dealt by Nearby enemies",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": -15,
+              "max": -12,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": -11,
+              "max": -9,
+              "probabilities": {
+                "100": 0.1312,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ]
     },
     "suffixes": {
-      "basic": [],
-      "advanced": [],
-      "ultimate": []
+      "basic": [
+        {
+          "id": "mana_regen_speed_basic",
+          "stat": [
+            "Mana Regeneration Speed"
+          ],
+          "description": "+({min} - {max})% Mana Regeneration Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 42,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 35,
+              "max": 42,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 25,
+              "max": 30,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 16,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 13,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "fire_resist_basic",
+          "stat": [
+            "Fire Resistance"
+          ],
+          "description": "+({min} - {max})% Fire Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "cold_resist_basic",
+          "stat": [
+            "Cold Resistance"
+          ],
+          "description": "+({min} - {max})% Cold Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "lightning_resist_basic",
+          "stat": [
+            "Lightning Resistance"
+          ],
+          "description": "+({min} - {max})% Lightning Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "erosion_resist_basic",
+          "stat": [
+            "Erosion Resistance"
+          ],
+          "description": "+({min} - {max})% Erosion Resistance",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 47,
+              "max": 52,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 42,
+              "max": 46,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 37,
+              "max": 41,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 33,
+              "max": 36,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 29,
+              "max": 32,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 25,
+              "max": 28,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0020,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "critical_strike_rating_basic",
+          "stat": [
+            "Critical Strike Rating"
+          ],
+          "description": "+({min} - {max})% Critical Strike Rating",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 87,
+              "max": 120,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 62,
+              "max": 86,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 45,
+              "max": 61,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 30,
+              "max": 44,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 20,
+              "max": 29,
+              "probabilities": {
+                "100": 0.0285,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 14,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0060,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "affliction_effect_basic",
+          "stat": [
+            "Affliction Effect"
+          ],
+          "description": "+({min} - {max})% Affliction Effect",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 36,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 26,
+              "max": 35,
+              "probabilities": {
+                "100": 0.0325,
+                "86-99": 0.0895
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 21,
+              "max": 25,
+              "probabilities": {
+                "100": 0.0351,
+                "86-99": 0.0201
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 17,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0342,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "advanced": [
+        {
+          "id": "critical_strike_damage_advanced",
+          "stat": [
+            "Critical Strike Damage"
+          ],
+          "description": "+({min} - {max})% Critical Strike Damage",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 44,
+              "max": 60,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 32,
+              "max": 43,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 23,
+              "max": 31,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 16,
+              "max": 22,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 11,
+              "max": 15,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 7,
+              "max": 10,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 5,
+              "max": 6,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "skill_area_and_minion_skill_area_advanced",
+          "stat": [
+            "Skill Area",
+            "Minion Skill Area"
+          ],
+          "description": "+({min} - {max})% Skill Area\n+({min} - {max})% Minion Skill Area",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 35,
+              "max": 48,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 25,
+              "max": 34,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 20,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 16,
+              "max": 19,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 13,
+              "max": 15,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 11,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "attack_cast_speed_and_minion_attack_cast_speed_advanced",
+          "stat": [
+            "Attack and Cast Speed",
+            "Minion Attack and Cast Speed"
+          ],
+          "description": "+({min} - {max})% Attack and Cast Speed\n+({min} - {max})% Minion Attack and Cast Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 18,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 13,
+              "max": 17,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 10,
+              "max": 12,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 7,
+              "max": 9,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 5,
+              "max": 6,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 4,
+              "max": 4,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 3,
+              "max": 3,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "reaping_duration_advanced",
+          "stat": [
+            "Reaping Duration"
+          ],
+          "description": "+({min} - {max})% Reaping Duration",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 36,
+              "max": 50,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 26,
+              "max": 35,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 21,
+              "max": 25,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 17,
+              "max": 20,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 14,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 11,
+              "max": 13,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 9,
+              "max": 10,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "max_energy_shield_advanced",
+          "stat": [
+            "Max Energy Shield"
+          ],
+          "description": "+({min} - {max})% Max Energy Shield",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 86,
+              "min": 12,
+              "max": 16,
+              "probabilities": {
+                "100": 0.0100,
+                "86-99": 0.0333
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 82,
+              "min": 9,
+              "max": 11,
+              "probabilities": {
+                "100": 0.0333,
+                "86-99": 0.0973
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 76,
+              "min": 7,
+              "max": 8,
+              "probabilities": {
+                "100": 0.0549,
+                "86-99": 0.0694
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 68,
+              "min": 6,
+              "max": 6,
+              "probabilities": {
+                "100": 0.0535,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 58,
+              "min": 5,
+              "max": 5,
+              "probabilities": {
+                "100": 0.0381,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 40,
+              "min": 6,
+              "max": 8,
+              "probabilities": {
+                "100": 0.0081,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 1,
+              "min": 4,
+              "max": 5,
+              "probabilities": {
+                "100": 0.0027,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ],
+      "ultimate": [
+        {
+          "id": "support_skill_level_ultimate",
+          "stat": [
+            "Support Skill Level"
+          ],
+          "description": "+({min} - {max}) Support Skill Level",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 2,
+              "max": 2,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 1,
+              "max": 1,
+              "probabilities": {
+                "100": 0.1400,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "additional_damage_taken_by_nearby_enemies_ultimate",
+          "stat": [
+            "Additional Damage Taken by Nearby Enemies"
+          ],
+          "description": "+({min} - {max})% Additional Damage Taken by Nearby Enemies",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 18,
+              "max": 24,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 13,
+              "max": 17,
+              "probabilities": {
+                "100": 0.1400,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "reaping_cooldown_recovery_speed_ultimate",
+          "stat": [
+            "Reaping Cooldown Recovery Speed"
+          ],
+          "description": "+({min} - {max})% Reaping Cooldown Recovery Speed",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 59,
+              "max": 83,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 43,
+              "max": 58,
+              "probabilities": {
+                "100": 0.1400,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": 34,
+              "max": 42,
+              "probabilities": {
+                "100": 0.1200,
+                "86-99": 0
+              }
+            }
+          ]
+        },
+        {
+          "id": "numbed_effect_ultimate",
+          "stat": [
+            "Numbed Effect"
+          ],
+          "description": "+({min} - {max})% Numbed Effect",
+          "tiers": [
+            {
+              "tier": 0,
+              "requiredLevel": 100,
+              "min": null,
+              "max": null,
+              "probabilities": null
+            },
+            {
+              "tier": 1,
+              "requiredLevel": 100,
+              "min": 29,
+              "max": 40,
+              "probabilities": {
+                "100": 0.0500,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 2,
+              "requiredLevel": 100,
+              "min": 21,
+              "max": 28,
+              "probabilities": {
+                "100": 0.1400,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 3,
+              "requiredLevel": 100,
+              "min": 17,
+              "max": 20,
+              "probabilities": {
+                "100": 0.1200,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 4,
+              "requiredLevel": 100,
+              "min": 14,
+              "max": 16,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 5,
+              "requiredLevel": 100,
+              "min": 11,
+              "max": 13,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 6,
+              "requiredLevel": 100,
+              "min": 9,
+              "max": 10,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            },
+            {
+              "tier": 7,
+              "requiredLevel": 100,
+              "min": 7,
+              "max": 8,
+              "probabilities": {
+                "100": 0,
+                "86-99": 0
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
